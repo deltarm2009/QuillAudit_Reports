@@ -9,8 +9,6 @@ Our comprehensive analysis framework employs both **Manual** and **Automated** m
 
 **Security Assessment**: We conduct rigorous evaluations to ascertain the security robustness of the code, probing for vulnerabilities that may expose it to malicious attacks or unauthorized access.
 
-**Documentation Alignment**: Our analysis extends beyond code examination to validate its alignment with associated documentation, including whitepapers. This ensures that the implemented code accurately reflects the intended design.
-
 **Gas Optimization**: We meticulously scrutinize the code to ensure optimal gas consumption, adhering to best practices for efficiency. This includes optimizing computational processes and minimizing resource consumption.
 
 **QuillAudits** is a leading smart contract audit firm committed to securing Blockchain projects with our cutting-edge Web3 security solutions. We provide smart contracts auditing and DApps pen testing services for web3-based, DeFi and NFT-based gaming projects. With a legacy of Seven years, we have secured 1400+ projects globally and saved $30B+ in the process; we continue to deliver enterprise-grade blockchain technology and state-
