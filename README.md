@@ -13,8 +13,6 @@ Our comprehensive analysis framework employs both **Manual** and **Automated** m
 
 **Gas Optimization**: We meticulously scrutinize the code to ensure optimal gas consumption, adhering to best practices for efficiency. This includes optimizing computational processes and minimizing resource consumption.
 
-**Code Quality**: We prioritize code readability and adherence to established best practices, enhancing maintainability and reducing the likelihood of errors or inefficiencies.
-
 **QuillAudits** is a leading smart contract audit firm committed to securing Blockchain projects with our cutting-edge Web3 security solutions. We provide smart contracts auditing and DApps pen testing services for web3-based, DeFi and NFT-based gaming projects. With a legacy of Seven years, we have secured 1400+ projects globally and saved $30B+ in the process; we continue to deliver enterprise-grade blockchain technology and state-
 
 ## Why is Security Audit Necessary?
