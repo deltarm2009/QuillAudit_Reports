@@ -13,8 +13,6 @@ Our comprehensive analysis framework employs both **Manual** and **Automated** m
 
 **QuillAudits** is a leading smart contract audit firm committed to securing Blockchain projects with our cutting-edge Web3 security solutions. We provide smart contracts auditing and DApps pen testing services for web3-based, DeFi and NFT-based gaming projects. With a legacy of Seven years, we have secured 1400+ projects globally and saved $30B+ in the process; we continue to deliver enterprise-grade blockchain technology and state-
 
-## Why is Security Audit Necessary?
-
 Not all smart contracts are as **“smart”** as we think they are. Security is a critical issue in the case of smart contracts. Recent hacks of smart contracts escalated the matter. An audit from trustful third party is the most ingenuous way to identify bugs, vulnerabilities and security flaws in smart contracts which might have remained unnoticed at production level and if your smart contract is ready to deploy this will be the last chance to save your project from becoming another victim of crypto hacks because of irreversible nature of smart contracts.
 
 ## Some common bugs in smart contracts that got funds worth millions of dollars stolen :
